@@ -3,7 +3,6 @@
 - 🔭 Currently working on React, TypeScript, Node.js
 - 🌱 Learning Go, Kubernetes, Rust, Blockchain/Web3
 - 💬 Ask me about JS, TypeScript, React, Node, APIs, Distributed Systems, Cloud Computing
-- 😄 Pronouns: He/his
 <!-- - 📫 How to reach me: ... -->
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
