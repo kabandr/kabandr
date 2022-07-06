@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working on React, TypeScript, Node.js
+- 🔭 Currently working on Angular, TypeScript, Node.js
 - 🌱 Learning Go, Kubernetes, Rust, Blockchain/Web3
 - 💬 Ask me about JS, TypeScript, React, Node, APIs, Distributed Systems, Cloud Computing
 <!-- - 📫 How to reach me: ... -->
